@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8PEl5lVAJjUkF+qkPySbpfHQ6PthQ01dVJVPikfzd0o=",
+  "Source": "DemoCICD",
+  "BasePath": "_content/DemoCICD",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
